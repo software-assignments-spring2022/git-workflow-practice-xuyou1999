@@ -4,3 +4,6 @@ A simple project to practice a few git/github workflows.
 [Complexity is killing software developers](https://www.infoworld.com/article/3639050/complexity-is-killing-software-developers.html)
 ## A paragraph or two about what you find interesting about that article
 This article is interesting that it explains the way that the growing complexity of software systems could kill developers. It provides some insights about the current and future software development environment.
+
+## Ruochen:
+This is also my feeling as I'm learning software engineering. There are always unheard technologies and it's hard to catch on.
