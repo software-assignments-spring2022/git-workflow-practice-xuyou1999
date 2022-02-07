@@ -10,3 +10,7 @@ The article claims that it has never been more difficult to be a software develo
 
 ## Ruochen:
 This is also my feeling as I'm learning software engineering. There are always unheard technologies and it's hard to catch on.
+
+## Shrey:
+
+I can completely relate to this. I feel like when our parent's generation was entering the tech-scape, that it was much easier to keep up with new technologies, because there would be a few major developements each year that could be easily kept up with. Now, though, it is much harder since there are advancements across many industries and sectors that it feels easy to just get lost in it all.
